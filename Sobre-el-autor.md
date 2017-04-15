@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre el autor
-permalink: /sobre-el-autor/
+permalink: /about/
 ---
 
 Información sobre el autor
