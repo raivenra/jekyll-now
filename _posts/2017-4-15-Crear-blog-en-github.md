@@ -4,6 +4,8 @@ title: Crear rápidamente un blog en github
 tag: tutorial
 ---
 
+![github pages](/images/github-pages.jpg)
+
 Pasos a seguir para la creación del blog:
 - Crear una cuenta en github
 - Hacer un fork de https://github.com/barryclark/jekyll-now
