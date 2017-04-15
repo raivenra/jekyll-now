@@ -8,5 +8,5 @@ tag: Pensamientos
 
 Viñeta de Luis Davila, [O Bichero](http://obichero.blogspot.com.es/)
 
-Hola mundo!
+**Hola mundo!**
 Primera entrada de mi blog en github.
