@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-04-15 11:00:00
+date: 2017-04-15 11:00:00 +0100
 title: Listo y funcionando!
 tag: Pensamientos
 ---
