@@ -21,4 +21,7 @@ Puedes ver tu blog abriendo esta dirección en tu navegador: [https://nombre_usu
 
 En **nombre_usuario** debes poner tu usuario de github.
 
-Más información: [Jekyll Now Info](https://github.com/raivenra/raivenra.github.io/blob/master/README.md)
+Más información:
+
+[Jekyll Now Info](https://github.com/raivenra/raivenra.github.io/blob/master/README.md)
+[Tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
