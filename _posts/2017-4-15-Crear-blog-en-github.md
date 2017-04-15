@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-04-15 11:30:00
+date: 2017-04-15 11:30:00 +0100
 title: Crear rápidamente un blog en github
 tag: tutorial
 ---
