@@ -8,7 +8,10 @@ tag: tutorial
 
 ### Pasos a seguir para la creación del blog:
 - Crear una cuenta en [github](https://github.com/)
-- Hacer un fork de [jekyll-now](https://github.com/barryclark/jekyll-now)
+- Hacer un fork de [Jekyll Now](https://github.com/barryclark/jekyll-now)
+
+![Fork de Jekyll Now](/images/step1.gif)
+
 - Modificar el nombre del repositorio en *settings* por *nombre_usuario.github.io*
 - Editar el archivo **_config.yml** con nuestros datos.
 - Editar el archivo **/_posts/2014-3-3-Hello-World.md** Este archivo contiene la información de la primera entrada del blog.
@@ -17,3 +20,5 @@ tag: tutorial
 Puedes ver tu blog abriendo esta dirección en tu navegador: [https://nombre_usuario.github.io](https://nombre_usuario.github.io)
 
 En **nombre_usuario** debes poner tu usuario de github.
+
+Más información: [Jekyll Now Info](https://github.com/raivenra/raivenra.github.io/blob/master/README.md)
