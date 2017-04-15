@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre el autor
 permalink: /about/
 ---
 
-Some information about you!
+Información sobre el autor
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+Friki, apasionado de las nuevas tecnologías.
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[raivenra@gmail.com](mailto:raivenra@gmail.com)
