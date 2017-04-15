@@ -6,7 +6,7 @@ tag: tutorial
 
 ![github pages](/images/github-pages.jpg)
 
-#### Pasos a seguir para la creación del blog:
+### Pasos a seguir para la creación del blog:
 - Crear una cuenta en github
 - Hacer un fork de [jekyll-now](https://github.com/barryclark/jekyll-now)
 - Modificar el nombre del repositorio en settings por nombre_usuario.github.io
