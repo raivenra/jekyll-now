@@ -24,4 +24,5 @@ En **nombre_usuario** debes poner tu usuario de github.
 Más información:
 
 [Jekyll Now Info](https://github.com/raivenra/raivenra.github.io/blob/master/README.md)
-[Tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
+[Tutorial: Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
