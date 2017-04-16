@@ -3,6 +3,14 @@ layout: page
 title: Índice de entradas
 permalink: /indice/
 ---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ page.tags }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 <ul class="minimal">
 {% for post in site.posts %}
