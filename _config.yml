@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-tiemzone: Europe/Madrid
+timezone: Europe/Madrid
 # Name of your site (displayed in the header)
 name: JLama
 
