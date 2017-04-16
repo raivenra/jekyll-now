@@ -4,8 +4,6 @@ title: Índice de entradas
 permalink: /indice/
 ---
 
-<a>{{ site.tags.TAG }}</a>
-
 <ul class="minimal">
 {% for post in site.posts %}
   <li>
