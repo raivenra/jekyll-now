@@ -6,7 +6,7 @@ permalink: /indice/
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ page.tags }}</a>
+      <a href="{{ post.url }}">{{ site.tags.TAG }}</a>
     </li>
   {% endfor %}
 </ul>
