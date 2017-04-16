@@ -4,13 +4,13 @@ title: Índice de entradas
 permalink: /indice/
 ---
 
-#<ul>
+# <ul>
 #  {% for post in site.posts %}
 #    <li>
 #      <a href="{{ post.url }}">{{ post.title }}</a>
 #    </li>
 #  {% endfor %}
-#</ul>
+# </ul>
 
 <ul class="minimal">
 {% for post in site.posts %}
