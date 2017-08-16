@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+
+<atom:link href="http://github.com/raivenra/raivenra.github.io/blob/master/rss.xml" rel="self" type="application/rss+xml"/>
+<link>http://archive.org/details/NolegaltechRadio</link>
+<title><![CDATA[NOlegaltech Radio]]></title>
+<description><![CDATA[El mundo legal no mola nada... Píldoras de tecnología y derecho en 10 minutos.
+El mundo del derecho es un rollo, pero hay maneras de entenderlo.
+En esencia, en este podcast (o radio digital) vamos a hablar de derecho sin utilizar las palabras que usan los que hablan de derecho.
+De derecho aplicado a la tecnología, aplicado al mundo del software libre, a la robótica, al mundo de la programación y otros temas relacionados.]]></description>
+<!-- <description><![CDATA[
+<p>Deja tus comentarios en tu plataforma de podcasts favorita, en <a href="https://twitter.com/NoLegalTech">Twitter</a> o <a href="mailto:nolegaltech.radio@gmail.com?subject=Comentario sobre NOlegaltech Radio">por email</a></p>
+]]></description> -->
+<image>
+	<url>http://ia601503.us.archive.org/30/items/NolegaltechRadio/nolegaltech-radio.png</url>
+	<title><![CDATA[NOlegaltech Radio]]></title>
+	<link>http://archive.org/details/NolegaltechRadio</link>
+</image>
+<language><![CDATA[es]]></language>
+<category><![CDATA[Technology]]></category>
+<itunes:subtitle>Píldoras de tecnología y derecho en 10 minutos</itunes:subtitle>
+<itunes:author>NOlegaltech Radio</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+	<itunes:name>NOlegaltech Radio</itunes:name>
+	<itunes:email>nolegaltech.radio@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://ia601503.us.archive.org/30/items/NolegaltechRadio/nolegaltech-radio.png"/>
+<itunes:category text="Technology"/>
+
+<item>
+		<title><![CDATA[#000-Presentación del podcast]]></title>
+		<description><![CDATA[El mundo del derecho es un rollo, pero hay maneras de entenderlo.
+En esencia, en este podcast (o radio digital) vamos a hablar de derecho sin utilizar las palabras que usan los que hablan de derecho.
+De derecho aplicado a la tecnología, aplicado al mundo del software libre, a la robótica, al mundo de la programación y otros temas relacionados.]]></description>
+		<content:encoded><![CDATA[<p>Síguenos en Twitter en <a href="https://twitter.com/NoLegalTech">https://twitter.com/NoLegalTech</a></p><p>&nbsp;</p>
+<p>Puedes dejar comentarios en tu plataforma de podcasts favorita, en <a href="https://twitter.com/NoLegalTech">https://twitter.com/NoLegalTech</a> o <a href="mailto:nolegaltech.radio@gmail.com?subject=Comentario sobre NOlegaltech Radio">por email a nolegaltech.radio@gmail.com</a></p><p>&nbsp;</p>
+]]></content:encoded>
+		<link>http://archive.org/details/NolegaltechRadio</link>
+		<guid>http://ia801503.us.archive.org/30/items/NolegaltechRadio/000-NOlegaltechRadio.mp3</guid>
+		<dc:creator><![CDATA[NOlegaltech Radio]]></dc:creator>
+		<pubDate>Tue, 15 Aug 2017 08:00:00 GMT</pubDate>
+		<enclosure url="http://ia801503.us.archive.org/30/items/NolegaltechRadio/000-NOlegaltechRadio.mp3" length="01731775" type="audio/mpeg"/>
+		<itunes:author>NOlegaltech Radio</itunes:author>
+		<itunes:subtitle>Píldoras de tecnología y derecho en 10 minutos</itunes:subtitle>
+		<itunes:summary>1️⃣ Quiénes somos?</itunes:summary>
+		<itunes:duration>02:24</itunes:duration>
+		<itunes:image href="http://ia601503.us.archive.org/30/items/NolegaltechRadio/nolegaltech-radio.png"/>
+</item>
+
+</channel>
+</rss>
